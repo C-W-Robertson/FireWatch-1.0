@@ -1,4 +1,11 @@
-# Getting Started with Create React App
+#FireWatch 1.0
+
+FireWatch is a React-based web app, designed to display active California wildfire data, with an emphasis on accessibility for mobile and low-bandwidth devices. Version 1.0  utilizes data stored in JSON format within the site, but I am aiming to link it directly to CalFire's API in the future.
+
+In addition to React, in particular React Router, V.1.0 uses Bootstrap for CSS style info. 
+
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
