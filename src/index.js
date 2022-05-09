@@ -4,6 +4,8 @@ import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
 
+// index.js imports the .App wrapper, CSS, and ReactDOM //
+
 ReactDOM.render(
   <React.StrictMode>
     <App />
